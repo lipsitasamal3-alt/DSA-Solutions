@@ -95,29 +95,29 @@ Arrays
 
 | Topic | Solved |
 |--------|:------:|
-| Arrays | 0 |
-| Strings | 0 |
-| Linked List | 0 |
+| Arrays | 2 |
+| Strings | 2 |
+| Linked List | 1 |
 | Stack | 0 |
 | Queue | 0 |
-| Trees | 0 |
+| Trees | 1 |
 | Binary Search Tree | 0 |
 | Graph | 0 |
-| Heap | 0 |
+| Heap | 1 |
 | HashMap | 0 |
 | Sliding Window | 0 |
-| Two Pointers | 0 |
+| Two Pointers | 2 |
 | Dynamic Programming | 0 |
 | Backtracking | 0 |
 | Greedy | 0 |
 | Binary Search | 0 |
 | Recursion | 0 |
 | Bit Manipulation | 0 |
-| Math | 0 |
+| Math | 3 |
 
 ### 📈 Total Problems Solved
 
-**0**
+**12**
 
 ---
 
