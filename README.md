@@ -95,12 +95,12 @@ Arrays
 
 | Topic | Solved |
 |--------|:------:|
-| Arrays | 12 |
-| Strings | 10 |
-| Linked List | 11 |
-| Stack | 9 |
-| Queue | 1 |
-| Trees | 1 |
+| Arrays | 28 |
+| Strings | 19 |
+| Linked List | 27 |
+| Stack | 15 |
+| Queue | 6 |
+| Trees | 10 |
 | Binary Search Tree | 0 |
 | Graph | 0 |
 | Heap | 1 |
@@ -110,14 +110,14 @@ Arrays
 | Dynamic Programming | 5 |
 | Backtracking | 3 |
 | Greedy | 2 |
-| Binary Search | 8 |
+| Binary Search | 14 |
 | Recursion | 3 |
-| Bit Manipulation | 2 |
-| Math | 15 |
+| Bit Manipulation | 3 |
+| Math | 53 |
 
 ### 📈 Total Problems Solved
 
-**90**
+**196**
 
 ---
 
